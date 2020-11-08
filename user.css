@@ -30,6 +30,11 @@ body {
     color:#6272a4;
 }
 
+.entry-title a,
+.entry-content a {
+    color:#ff79c6;
+}
+
 /* only works after read-unread */
 /* #fullscreen-entry .entry.unread .entry-title, */
 .entry.unread  .entry-title {
